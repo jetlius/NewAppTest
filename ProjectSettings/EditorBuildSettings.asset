@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LIDARTest.unity
+    guid: b23d03b9b459d5b4e9980b012e51fe0e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: dbb25e9a0c3aa6a438e7385eb8de61cf, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0b8784b4321b03b4f8b79627298dffb3, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 88c7019871cca084585300fbd8bf55a1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ac2065749100dee489fbf2c423d4c111, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9ffa5474c7692d44d8812f3215687c18, type: 2}
